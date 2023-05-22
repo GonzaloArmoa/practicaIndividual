@@ -1,2 +1,2 @@
-#Practica Individula
-##Curso de Programación Web Fullstack | DH
+#Práctica Individual
+##Curso de Programación Web Fullstack FORMAR | DH
