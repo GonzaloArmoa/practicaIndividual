@@ -7,4 +7,5 @@ console.log(`
 4. Cortar la cebolla a la juliana
 5. Cortar en tiritas el jamon y el queso
 6. Añadir el huevo en trozos pequeños
-7. La ensalada queda finalizada`)
+7. Condimentar a gusto
+8. La ensalada queda finalizada`)
